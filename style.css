@@ -71,3 +71,21 @@ nav a:hover{
     box-shadow: 5px 5px 10px -2px;
     padding: 11px 31px;
 }
+
+.about{
+    height: 800px;
+    background-color: bisque;
+}
+
+.containerAbout{
+    background-color: #F0791D;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    height: 100%;
+    padding-top: 50px;
+}
+
+.containerAbout img{
+    height: 200px;
+}
